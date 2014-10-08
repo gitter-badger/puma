@@ -1,4 +1,5 @@
 # capistrano-runit-puma
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/capistrano-runit/puma?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Capistrano3 tasks for manage puma via runit supervisor.
 
